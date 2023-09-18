@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Rock-Paper-Scissors (Java)/*
+!/Rock-Paper-Scissors (Java)/task/
+/Rock-Paper-Scissors (Java)/task/*
+!/Rock-Paper-Scissors (Java)/task/src
+
+# Project exclude paths
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/

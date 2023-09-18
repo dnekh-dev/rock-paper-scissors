@@ -1,0 +1,5 @@
+Alex 400
+Meow 350
+Mors 0
+Tim 350
+Jane 200
